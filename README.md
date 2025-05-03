@@ -76,7 +76,7 @@ The system calculates various market statistics including:
 ### Compilation
 
 ```bash
-g++ --std=c++11 *main.cpp OrderBookEntry.cpp MerkleMain.cpp CSVReader.cpp OrderBook.cpp Wallet.cpp -o merklerex*
+g++ --std=c++11 main.cpp OrderBookEntry.cpp MerkleMain.cpp CSVReader.cpp OrderBook.cpp Wallet.cpp -o merklerex
 ```
 
 ### Running the Program
