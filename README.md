@@ -1,6 +1,7 @@
 # MerkleRex-Cryptocurrency-Exchange-Platform
 
 A C++ implementation of a cryptocurrency exchange system that demonstrates order book management and market analysis.
+/Users/hankchen/Documents/GitHub/hankchen.github.io/assets/proj_5.png
 
 ## Features
 
